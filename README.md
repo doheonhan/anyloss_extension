@@ -96,10 +96,6 @@ model.compile(loss=[  ], optimizer=opt, metrics=['accuracy']) # [  ]: Any_Fbeta 
 * [Experiments_1]_Image.ipynb
 * [Experiments_2]_Text.ipynb
 * [Experiments_2]_Text_BERT.ipynb
-### 5. The code of experiments for measuring learning time. (Section 4.3 in the paper)
-* 4-51: (MSE/BCE/AnyLoss) Learning Speed on 4 Datasets - SLP
-* 4-52: (SOL) Learning Speed on 4 Datasets - SLP
-* 4-62: (MSE/BCE/AnyLoss/SOL) Learning Speed on 4 Datasets - MLP
 ### 6. Misc.
 * 102 datasets: data_num.zip
 * Bayesian Sign Test: bayesiantests.py
