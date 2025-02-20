@@ -5,7 +5,7 @@
 * [Extension] Not Published Yet
 
 ## |How to use|
-### 1. The code for overview is shown below.
+### 1. The code for the overview is shown below.
 * The code in detail: AnyLoss_Code.ipynb
 * For Quick Use (Python Code with Tensorflow): Define AnyLoss using "def" and put the loss name in the "[   ]" when compiling. (See Below)
   
