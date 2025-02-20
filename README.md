@@ -1,7 +1,6 @@
 # Anyloss_extension
 
 ## |Paper| 
-%%* [Original] AnyLoss: Transforming Classification Metrics into Loss Functions (https://arxiv.org/abs/2405.14745) 
 * [Extension] Not Published Yet
 
 ## |How to use|
