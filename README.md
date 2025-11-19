@@ -76,8 +76,8 @@ def WBCEBL(y_true, y_pred):
     baccu = (y0*TP+y1*TN) / (2*y1*y0+s)
     return (1-r)*WBCEloss+(r)*(1-baccu)
 
-L = Hyper Parameter, positive real number, [2, 70], an integer for convenience
-r = Hyper Parameter, positive real number, (0, 1)
+L = Hyperparameter, positive real number, [2, 70], an integer for convenience
+r = Hyperparameter, positive real number, (0, 1)
 model.compile(loss=[  ], optimizer=opt, metrics=['accuracy']) # [  ]: Any_Fbeta // WBCEFL // ...
 ```
 
