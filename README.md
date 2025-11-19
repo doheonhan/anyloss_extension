@@ -81,22 +81,10 @@ r = Hyperparameter, positive real number, (0, 1)
 model.compile(loss=[  ], optimizer=opt, metrics=['accuracy']) # [  ]: Any_Fbeta // WBCEFL // ...
 ```
 
-### 2. The Type1 method
-* [Type1_1]_LearningTime.ipynb
-* [Type1_2]_LearningCurve.ipynb
-### 3. Type1 Hyperparameter Analysis
-* [Hyper_T1_1]_ValidL.ipynb
-* [Hyper_T1_2]_Flexibility.ipynb
-* [Hyper_T1_3]_LearningRate_EXP.ipynb
-* [Hyper_T1_3]_LearningRate_RES.ipynb
-### 4. Type2&3 Hyperparameter Analysis + Experiment_Tabular
-* [Hyper_EXP]_Tabular.ipynb
-* [Hyper_EXP]_Tabular_RES1.ipynb
-* [Hyper_EXP]_Tabular_RES2.ipynb
-### 5. Experiment_Image&Text
-* [Experiments_1]_Image.ipynb
-* [Experiments_2]_Text.ipynb
-* [Experiments_2]_Text_BERT.ipynb
-### 6. Misc.
-* 102 datasets: data_num.zip
+### 2. Description of Files
+* Refer to the file title (indicating section of the paper)
+
+### 3. Misc.
+* DATA folder: contains data files (too large files not contained)
+* Result folder: Results from experiments (csv)
 * Bayesian Sign Test: bayesiantests.py
