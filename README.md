@@ -85,6 +85,5 @@ model.compile(loss=[  ], optimizer=opt, metrics=['accuracy']) # [  ]: Any_Fbeta 
 * Refer to the file title (indicating section of the paper)
 
 ### 3. Misc.
-* DATA folder: contains data files (too large files not contained)
 * Result folder: Results from experiments (csv)
 * Bayesian Sign Test: bayesiantests.py
