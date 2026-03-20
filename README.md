@@ -1,8 +1,8 @@
 # Anyloss_extension
 
 ## |Paper| 
-* [Original] AnyLoss: Transforming Classification Metrics into Loss Functions (https://arxiv.org/abs/2405.14745) 
-* [Extension] Not Published Yet
+* [Original] AnyLoss: Transforming Classification Metrics into Loss Functions (KDD24, https://arxiv.org/abs/2405.14745) 
+* [Extension] Generation of Loss Functions from Matrix-Based Binary Classification Metrics (TKDD, Not Published Yet)
 
 ## |How to use|
 ### 1. The code for the overview is shown below.
